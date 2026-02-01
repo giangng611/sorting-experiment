@@ -1,8 +1,7 @@
 from __future__ import annotations
 from typing import List, Optional
 import random
-from base_sorter import BaseSorter
-
+from com.sorting_algorithms.base_sorter import BaseSorter
 
 class QuickSortRandomPivot(BaseSorter):
     """

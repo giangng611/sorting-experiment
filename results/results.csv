@@ -1,0 +1,8 @@
+n,algorithm,comparisons
+100,Selection Sort,4950
+200,Selection Sort,19900
+500,Selection Sort,124750
+1000,Selection Sort,499500
+2000,Selection Sort,1999000
+5000,Selection Sort,12497500
+10000,Selection Sort,49995000
