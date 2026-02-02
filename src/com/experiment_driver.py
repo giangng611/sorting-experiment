@@ -29,6 +29,7 @@ def main() -> None:
 
     sorters: List[Tuple[str, object]] = [
         ("Selection Sort", SelectionSort()),
+        ("Merge Sort", MergeSort()),
     ]
 
     rows = [("n", "algorithm", "comparisons")]

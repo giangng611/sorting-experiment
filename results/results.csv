@@ -1,8 +1,15 @@
 n,algorithm,comparisons
 100,Selection Sort,4950
+100,Merge Sort,549
 200,Selection Sort,19900
+200,Merge Sort,1293
 500,Selection Sort,124750
+500,Merge Sort,3846
 1000,Selection Sort,499500
+1000,Merge Sort,8710
 2000,Selection Sort,1999000
+2000,Merge Sort,19449
 5000,Selection Sort,12497500
+5000,Merge Sort,55180
 10000,Selection Sort,49995000
+10000,Merge Sort,120443
