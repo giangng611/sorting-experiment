@@ -30,6 +30,7 @@ def main() -> None:
     sorters: List[Tuple[str, object]] = [
         ("Selection Sort", SelectionSort()),
         ("Merge Sort", MergeSort()),
+        ("Heap Sort", HeapSort()),
     ]
 
     rows = [("n", "algorithm", "comparisons")]
