@@ -88,7 +88,7 @@ Based on the experimental data:
 
 ### Run experiment across multiple input sizes:
 ```bash
-python experiment2.py
+python experiment_driver.py
 ```
 ### This generates:
 ```

@@ -31,7 +31,8 @@ def main() -> None:
         ("Selection Sort", SelectionSort()),
         ("Merge Sort", MergeSort()),
         ("Heap Sort", HeapSort()),
-        ("Quick Sort", QuickSortFirstPivot()),
+        ("Quick Sort (FP)", QuickSortFirstPivot()),
+        ("Quick Sort (RP)", QuickSortRandomPivot(seed=12345)),
     ]
 
     rows = [("n", "algorithm", "comparisons")]
